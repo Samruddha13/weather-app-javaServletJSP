@@ -1,4 +1,4 @@
-# WeatherApp USING JAVA SERVLET JSP
+# WeatherApp USING JAVA 
 
 ## Description
 WeatherApp is a simple Java web application developed using Servlets, JSP, HTML, CSS, and JavaScript. It integrates with the OpenWeatherMap API to fetch weather data for a given city and display it to the user.
@@ -72,5 +72,5 @@ Display current weather conditions including temperature, humidity, wind speed, 
 ![WeatherApp Screenshot](screenshots/3s.jpeg)
 
 ## Created by:
-- [Darshan Bajgain](https://github.com/darshanbajgain) 
+- [Samruddha Shambharkar](https://github.com/Samruddha13) 
 
